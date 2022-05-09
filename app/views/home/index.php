@@ -1,4 +1,10 @@
-    <h1>Selamat Datang di Website Saya</h1>
-    <a href="../public/about">About Me</a>
-    <br>
-    <a href="../public/about/page">My Bio</a>
+<div class="container">
+    <div class="jumbotron">
+        <h1>Selamat Datang di Website saya</h1>
+        <p class="lead">lorem ipsum</p>
+  
+        <hr class="my-4">
+          
+        <p>Some dummy text</p>
+    </div>
+</div>
