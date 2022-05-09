@@ -23,7 +23,7 @@
           <a class="nav-link" href="<?= BASEURL; ?>/about ">About</a>
           <a class="nav-link" href="<?= BASEURL; ?>/about/page
           ">Biodata</a>
-          <a class="nav-link disabled">Disabled</a>
+          <a class="nav-link" href="<?= BASEURL; ?>/mahasiswa">Mahasiswa</a>
         </div>
       </div>
     </div>
